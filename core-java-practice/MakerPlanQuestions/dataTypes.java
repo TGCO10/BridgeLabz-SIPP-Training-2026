@@ -1,6 +1,6 @@
 package MakerPlanQuestions;
 
-public class dataTypes {
+public class DataTypes {
     public static void main(String[] args) {
         String name = "Ravi";
         int age = 22;
